@@ -39,6 +39,17 @@ Analyzes follower and following activity and account relationship patterns.
 
 The original dataset was obtained from a personal Instagram data export.
 
+
+## Dashboard Screenshots
+
+### Engagement Analysis
+
+![Instagram Engagement Analysis](screenshots/engagement-analysis.png)
+
+### Followers & Following Analysis
+
+![Instagram Followers and Following Analysis](screenshots/followers-following.png)
+
 For privacy reasons, the raw data is not included in this repository because it contains personal account information and information related to other Instagram users.
 
 
