@@ -44,11 +44,11 @@ The original dataset was obtained from a personal Instagram data export.
 
 ### Engagement Analysis
 
-![Instagram Engagement Analysis](screenshots/engagement-analysis.png)
+![Instagram Engagement Analysis](screenshots/Page1_Engagement_Analysis.png)
 
 ### Followers & Following Analysis
 
-![Instagram Followers and Following Analysis](screenshots/followers-following.png)
+![Instagram Followers and Following Analysis](screenshots/Page2_Followers and Following_Analysis.png)
 
 For privacy reasons, the raw data is not included in this repository because it contains personal account information and information related to other Instagram users.
 
