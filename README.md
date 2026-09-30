@@ -48,7 +48,8 @@ The original dataset was obtained from a personal Instagram data export.
 
 ### Followers & Following Analysis
 
-![Instagram Followers and Following Analysis](screenshots/Page2_Followers and Following_Analysis.png)
+![Instagram Engagement Analysis](screenshots/Page2_Followers_and_Following_Analysis)
+
 
 For privacy reasons, the raw data is not included in this repository because it contains personal account information and information related to other Instagram users.
 
